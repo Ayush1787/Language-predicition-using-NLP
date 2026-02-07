@@ -34,21 +34,16 @@ This project uses Natural Language Processing (NLP) techniques to implement a si
 
 ## 🔧 Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/language-detector.git
-   cd language-detector
-   ```
-2. Install dependencies:
+1. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Prepare the dataset (or use an existing one)
-4. Train the model:
+2. Prepare the dataset (or use an existing one)
+3. Train the model:
    ```bash
    python train.py
    ```
-5. Run predictions:
+4. Run predictions:
    ```bash
    python predict.py "Your text here"
    ```
